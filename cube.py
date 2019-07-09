@@ -1,5 +1,4 @@
 from tkinter import *
-import time
 import math
 
 class coords():
